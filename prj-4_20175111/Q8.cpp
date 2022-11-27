@@ -19,5 +19,5 @@ T getSmallest (T arr[], int n) {
 int main() {
 	double list[] = { 1.2,3.3,9.0,1.5,8.7 };
 	double n = getSmallest(list, 5);
-	cout << "�ּҰ�: " << n << endl;
+	cout << "최소값: " << n << endl;
 }
